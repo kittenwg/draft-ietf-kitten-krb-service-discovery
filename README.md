@@ -9,3 +9,4 @@ draft-ietf-kitten-krb-service-discovery was first published as a kitten WG docum
 
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
+Greg Hudson | 21 March 2017 | -00 | downrefs potentially of concern; some other issues to be addressed | https://www.ietf.org/mail-archive/web/kitten/current/msg06256.html
