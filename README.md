@@ -7,6 +7,9 @@ Feel free to make pull requests against this README.md if you have made a review
 
 draft-ietf-kitten-krb-service-discovery was first published as a kitten WG document on 2017-02-09.
 
+MIT krb5 ships code for this starting in 1.15.
+
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
 Greg Hudson | 21 March 2017 | -00 | downrefs potentially of concern; some other issues to be addressed | https://www.ietf.org/mail-archive/web/kitten/current/msg06256.html
+Benjamin Kaduk | 11 April 2017 | -00 | don't bother with non-specified protocols, terminology | https://www.ietf.org/mail-archive/web/kitten/current/msg06296.html
