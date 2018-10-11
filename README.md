@@ -13,3 +13,4 @@ Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Revie
 ---------|-------------|------------------|----------------------|---------------
 Greg Hudson | 21 March 2017 | -00 | downrefs potentially of concern; some other issues to be addressed | https://www.ietf.org/mail-archive/web/kitten/current/msg06256.html
 Benjamin Kaduk | 11 April 2017 | -00 | don't bother with non-specified protocols, terminology | https://www.ietf.org/mail-archive/web/kitten/current/msg06296.html
+Benjamin Kaduk | 11 October 2018 | -00 | need to add entries to DNS underscore names registry | https://www.ietf.org/mail-archive/web/kitten/current/msg06570.html
